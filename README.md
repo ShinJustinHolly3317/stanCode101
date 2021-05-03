@@ -1,5 +1,7 @@
-# stanCode101
-My work in stanCode 101
+# *stanCode101 Project*
+Here are my works during stanCode SC001 & SC101 courses
+
+Feel free to watch [Demo Video](W3v_bHn-Idsh-0_ROSWLwrXOzoervZId25OOzH2LX4b6FCGDfULdDg)
 
 ### Project Source Code
 - [Hangman](https://github.com/ShinJustinHolly3317/stanCode101/tree/main/stanCode%20Photoshop)
