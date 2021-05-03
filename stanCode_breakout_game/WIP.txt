@@ -1,0 +1,6 @@
+
+
+	1. 遊戲結束後多一個畫面可以重新遊戲，且可以輸入第二個玩家名字
+
+	2. 修改breakout def playing_game 到 breakoutgraphic中
+	3.
