@@ -18,7 +18,7 @@ Feel free to watch [Demo Video](https://drive.google.com/drive/folders/1Gi3bn9qP
   - Image Processing
 - [Breakout Game](https://github.com/ShinJustinHolly3317/stanCode101/tree/main/stanCode_breakout_game)
   - Object oriented & tkitner
-- [Baby names ranking](https://github.com/ShinJustinHolly3317/stanCode101/tree/main/stanCode_babynames_searching)
+- [Baby names ranking Search system](https://github.com/ShinJustinHolly3317/stanCode101/tree/main/stanCode_babynames_searching)
   - Object oriented & tkitner
 - [Boggle game](https://github.com/ShinJustinHolly3317/stanCode101/tree/main/stanCode_Boggle%20Game)
   - Recursion
