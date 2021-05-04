@@ -5,13 +5,13 @@ Feel free to watch [Demo Video](https://drive.google.com/drive/folders/1Gi3bn9qP
 
 ## Project Source Code
 - [Hangman](https://github.com/ShinJustinHolly3317/stanCode101/tree/main/stanCode%20Photoshop)
-  - Python semantics & syntax
+  - Python semantics & syntax & string manipulation
 - [HailStone](https://github.com/ShinJustinHolly3317/stanCode101/tree/main/stanCode_hailstone)
   - Python semantics & syntax
 - [WeatherMaster](https://github.com/ShinJustinHolly3317/stanCode101/tree/main/stanCode_weather_master)
   - Python semantics & syntax
 - [Caesar Decipher](https://github.com/ShinJustinHolly3317/stanCode101/tree/main/stanCode_caesar_cipher_decipher)
-  - Python semantics & syntax
+  - Python semantics & syntax & string manipulation
 - [Myface photoshop](https://github.com/ShinJustinHolly3317/stanCode101/tree/main/stanCode_myface_photoshop)
   - Image processing
 - [Img blur algorithm](https://github.com/ShinJustinHolly3317/stanCode101/tree/main/stanCode_blur_algorithm)
